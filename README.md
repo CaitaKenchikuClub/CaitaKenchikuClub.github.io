@@ -2,7 +2,7 @@
 
 けんちくぶ！のウェブサイト（GitHub Pages のユーザーサイト）。公開 URL：https://caitakenchikuclub.github.io/
 
-- `index.html`：紹介ページ（Google Play の「ウェブサイト」欄に登録する）
+- `index.html`：けんちくぶ！のトップページ（Google Play の「ウェブサイト」欄に登録する）
 - `burokocho/index.html`：ブロッ校長！の遊び方ページ（AdSense の審査用の文章ページも兼ねる。2026-10-17 追加）。画像 `assets/img/burokocho-chara.webp` はゲームのキャラ画像（Caita建築部）
 - `privacy/index.html`：このウェブサイト（ブラウザ版のゲームを含む）のプライバシーポリシー（AdSense・Cookie。2026-10-17 追加）。AdSense の同意メッセージとブラウザ版ゲームの「プライバシーポリシー」はこの URL（https://caitakenchikuclub.github.io/privacy/ ）を使う。URL を変えない。Android アプリ用は別リポジトリ PrivacyPolicy
 - `ads.txt`：AdSense の ads.txt（Web 版の広告用。2026-10-17 追加）。**このファイルの場所（サイトの一番上）と中身を変えない**
